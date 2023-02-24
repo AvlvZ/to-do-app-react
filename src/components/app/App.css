@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1000px;
+  height: 100vh;
+}
+
+.app-modal {
+  max-width: 1000px;
+  width: 100%;
+  padding: 64px;
+  background: #fff;
+  border-radius: 32px;
+}

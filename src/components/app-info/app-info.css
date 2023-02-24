@@ -1,0 +1,15 @@
+.app-info__header {
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.app-info__title {
+  font-size: 16px;
+  text-align: center;
+}
+
+.app-info {
+  margin-bottom: 64px;
+}
